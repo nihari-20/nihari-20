@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nihari-20
 - 👀 I’m interested in HTML
 - 💞️ I’m looking to collaborate on blah blah blah 
-- 📫 How to reach me @niha.rikaa02 on instagram 
+- 📫 How to reach me @nihari55ka@gmail.com
 - 😄 Pronouns: she/her
 
 <!---
