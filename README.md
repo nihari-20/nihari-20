@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @nihari-20
+- 😄 Pronouns: she/her
 - 👀 I’m interested in HTML
 - 💞️ I’m looking to collaborate on blah blah blah 
-- 📫 How to reach me @nihari55ka@gmail.com
-- 😄 Pronouns: she/her
+- 📫 How to reach me nihari55ka@gmail.com
+
 
 <!---
 nihari-20/nihari-20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
