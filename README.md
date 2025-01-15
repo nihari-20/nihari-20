@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nihari-20
+- 👋 Hi, I’m niharika
 - 😄 Pronouns: she/her
 - 👀 I’m interested in HTML
 - 💞️ I’m looking to collaborate on blah blah blah 
